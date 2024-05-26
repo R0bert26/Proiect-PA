@@ -8,7 +8,8 @@ Homari disponibili:
 - Homarul A: Dimensiune = 4 cm, Valoare = 20 monede de aur
 - Homarul B: Dimensiune = 3 cm, Valoare = 15 monede de aur
 - Homarul C: Dimensiune = 2 cm, Valoare = 10 monede de aur
-- Homarul D: Dimensiune = 5 cm, Valoare = 25 monede de aur
+- Homarul D: Dimensiune = 5 cm, Valoare = 25 monede de aurâ
+  
 Capacitatea plasei: 10 cm
 
 ## Obiectiv
