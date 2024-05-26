@@ -22,7 +22,7 @@ Se folosește un algoritm de programare dinamică. Se construiește o matrice pe
 ### C
 Pentru a utiliza acest program, descărcați, compilați și rulați codul sursă disponibil în acest repository. Programul va solicita introducerea numărului de seturi de date, dupa care se vor genera automat intrarile de date. Afișarea se va face in consola (terminal).
 ### Python
-Pentru a utiliza acest program, descărcați codul sursă, activați environment-ul .venv (conține versiunea de python in care a fost scris codul) și rulați codul. Programul va solicita introducerea numărului de seturi de date, dupa care se vor genera automat intrarile de date. Afișarea se va face in consola (terminal).
+Pentru a utiliza acest program, descărcați codul sursă (asigurați-vă ca aveti python3 instalat) și rulați codul. Programul va solicita introducerea numărului de seturi de date, dupa care se vor genera automat intrarile de date. Afișarea se va face in consola (terminal).
 
 ## Licență
 Acest proiect este licențiat sub [MIT License](LICENSE).
